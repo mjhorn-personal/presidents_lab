@@ -3,5 +3,6 @@ python:
  - "3.8.3"
  - "nightly"
 install:
- - "pip install pytest"
-script: python -m pytest presidents.py
+ - pip install pytest
+ - install -r requirements.txt
+script: python3 -m pytest presidents.py
