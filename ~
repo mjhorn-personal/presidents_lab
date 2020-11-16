@@ -1,0 +1,12 @@
+moved presidents.txt to root
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   .travis.yml
+#	renamed:    presidents/test/unit/presidents.txt -> presidents.txt
+#	modified:   presidents/test/unit/test_presidents.py
+#

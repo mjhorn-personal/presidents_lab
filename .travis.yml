@@ -4,6 +4,5 @@ python:
  - "nightly"
 install:
  - pip install pytest
- - pip install -r requirements.txt
  - pip install requests
 script: python3 -m pytest presidents.py
