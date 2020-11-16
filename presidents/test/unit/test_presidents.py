@@ -1,5 +1,5 @@
 import pytest
-from lab10.presidents import search_presidents
+from presidents_lab.presidents.presidents import search_presidents
 import re
 
 def get_president_list():
